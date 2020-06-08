@@ -33,3 +33,7 @@ a{
 #rodape{
 	text-align: center;
 }
+
+.bordasImg{
+	border: 10px groove #F781BE;
+}
