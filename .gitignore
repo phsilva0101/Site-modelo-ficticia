@@ -1,0 +1,31 @@
+# Arquivos de cache para texto sublime
+* .tmlanguage.cache
+* .tmPreferences.cache
+* .stTheme.cache
+
+# Os arquivos da área de trabalho são específicos do usuário
+* .sublime-workspace
+
+# Os arquivos do projeto devem ser verificados no repositório, a menos que haja um
+# proporção de colaboradores provavelmente não estará usando Texto Sublime
+# * .sublime-project
+
+# Arquivo de configuração SFTP
+sftp-config.json
+sftp-config-alt * .json
+
+# Arquivos específicos de controle de pacote
+Package  Control.last-run
+Pacote  Control.ca-list
+Pacote  Control.ca-bundle
+Pacote  Control.system-ca-bundle
+Pacote  Control.cache /
+ Control.ca-certs do pacote /
+Pacote  Control.merged-ca-bundle
+Pacote  Control.user-ca-bundle
+oscrypto-ca-bundle.crt
+bh_unicode_properties.cache
+
+# O pacote Sublime-github armazena um token do github nesse arquivo
+# https://packagecontrol.io/packages/sublime-github
+Configurações do GitHub.sublime
