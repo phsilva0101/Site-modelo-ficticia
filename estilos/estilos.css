@@ -1,6 +1,7 @@
 body{
-	background: #d2d2c1 url('../imagens/fundo.png');
+	background: #d2d2c1 url('../imagens/fundo2.png');
 	font: 16px Arial, Helvetica, sans-serif;
+
 }
 
 h2{
@@ -10,7 +11,8 @@ h2{
 }
 
 #principal{
-	width: 900px
+	width: 900px;
+	margin: auto;
 }
 #menu {
 	background: #c5c5b2;
